@@ -1,0 +1,77 @@
+name: emory.lockman
+description: ability
+version: 0.0.1
+author: 43vr92og.yy2ljdfy@xj4djksc.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: emorylockman
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 20:26:33'
+pipelines:
+  pipelines/Santina_GusikowskiAnnie_MooreMrs__Kristi_Muller:
+    name: Santina_GusikowskiAnnie_MooreMrs__Kristi_Muller
+    description: null
+    author: 43vr92og.yy2ljdfy@xj4djksc.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-02-24 20:26:33'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/Elenor_KeelingEddie_BullMr__Tristan_Johnston:
+    name: Elenor_KeelingEddie_BullMr__Tristan_Johnston
+    description: null
+    author: 43vr92og.yy2ljdfy@xj4djksc.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2025-02-24 20:26:33'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 20:26:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T20:26:33.593399Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1277983220'
+  createdAt: '2025-02-24T20:26:33.593399Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
